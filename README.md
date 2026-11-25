@@ -34,4 +34,3 @@ docs/
 | « Comment redemarrer srv-lyon-02 ? » (sans accent)      | Recherche plein texte sans accents                                               |
 | « Est-ce qu'on recrute des développeurs en 2027 ? »     | Droits : Sébastien a la réponse, Patrick et Élodie ne doivent rien obtenir        |
 | « Quelle est la recette de la tartiflette ? »           | Question hors sujet : le RAG doit répondre qu'il ne sait pas                     |
-# docstring-systems
